@@ -1,6 +1,6 @@
 # 08_Udacity_Project_Prosper_Data_v2_Tableau
 
-#### Technologies Used: 
+#### Technologies Used: Tableau
 
 Final Submission: https://public.tableau.com/profile/alissa.mcbain#!/vizhome/ProsperDatav3final/ProsperDatastory
 
